@@ -20,7 +20,7 @@ export default function Page() {
           >
             <strong>Welcome to Acme.</strong> This is the example for the{" "}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
+              Next.js Learn Course~~Maye
             </a>
             , brought to you by Vercel.
           </p>
